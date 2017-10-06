@@ -1,6 +1,6 @@
 # General Jupyter Noise/Checkpoints/etc
 .ipynb_checkpoints/
 metastore_db/
-metastore_db/*
+*/metastore_db/
 derby.log
 .DS_Store
